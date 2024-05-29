@@ -1,4 +1,4 @@
-# 📍 Aula-WEB - Projeto CRUD
+# 📍 Aula WEB - Projeto CRUD
 Esse repositorio será sobre o desenvolvimento do CRUD solicitado na aula de Programação WEB segue mais detalhes abaixo:
 
 # ✏️ CRUD
