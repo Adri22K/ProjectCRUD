@@ -33,7 +33,7 @@ dados ou em um arquivo TXT.
 <div> 
   <h1>Tecnologias Utilizadas</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=github,bootstrap,vscode,html,css,js,php,postgresflutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,bootstrap,vscode,html,css,js,php,postgres,flutter&perline=4)](https://skillicons.dev)
  </div>
 <div>
 
