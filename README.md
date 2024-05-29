@@ -12,7 +12,7 @@ Criação de um formulário para cadastro de usuários com as funcionalidades do
 - Estado
 
 
-<h1> ⚙  Requisitos Específicos  </h1>
+<h1> 📑  Requisitos Específicos  </h1>
 
 - Requisitos de Interface de Usuário: Para melhorar a usabilidade e visibilidade
 é recomendado o uso da ferramenta Bootstrap
@@ -31,13 +31,13 @@ dados ou em um arquivo TXT.
 - Xamp;
 
 <div> 
-  <h1>Tecnologias Utilizadas</h1>
+  <h1> 🔗 Tecnologias Utilizadas</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=github,bootstrap,vscode,html,css,js,php,postgres&perline=4)](https://skillicons.dev)
  </div>
 <div>
 
-<h1> ⚙ Banco de Dados </h1>
+<h1> 🎲 Banco de Dados </h1>
 
 - Usamos o banco de dados no XAMP, e criamos nossa database com o Postegres
 
